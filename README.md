@@ -56,7 +56,3 @@ An STM32-based guitar tutor combining real-time audio/chord recognition, an LVGL
 ## ✨ Away from the keyboard
 
 🏀 Basketball · 🎵 Music · 🀄 Mahjong · 🎮 Games
-
----
-
-💬 [Let's connect!](https://www.linkedin.com/in/lingxiao-yang/)
