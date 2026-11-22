@@ -53,15 +53,6 @@ An STM32-based guitar tutor combining real-time audio/chord recognition, an LVGL
 | [Multi-agent kernel optimization](https://github.com/Lingxiao-Yang/multi-agent-kernel) | Can specialized LLM roles and hardware knowledge improve Triton kernel optimization under matched attempt and call budgets? Includes a search controller, correctness checks, and a measurement harness; the full A100 study remains in development. |
 | [Agent serving concurrency](https://github.com/Lingxiao-Yang/agent-serving-concurrency) | How does stage-specific model/tool concurrency compare with a global request limit? The current testbed uses deterministic scripted inference; GPU integration is a later milestone. |
 
-## Technical toolkit
-
-| Area | Technologies represented in my projects |
-| :--- | :--- |
-| Languages | Python, C, SystemVerilog |
-| Architecture & embedded systems | RISC-V, out-of-order execution, RTL verification, STM32, LVGL |
-| Machine learning & robotics | PyTorch, Triton, Isaac Sim, LeRobot, SmolVLA |
-| Experimentation & analysis | Benchmarking, correctness validation, signal processing, data visualization |
-
 ## Problem solving
 
 [![LeetCode statistics and activity heatmap for lingxiao-yang](https://leetcard.jacoblin.cool/lingxiao-yang?theme=light&font=Inter&ext=heatmap)](https://leetcode.com/u/lingxiao-yang/)
