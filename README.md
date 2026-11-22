@@ -55,4 +55,4 @@ An STM32-based guitar tutor combining real-time audio/chord recognition, an LVGL
 
 ## ✨ Away from the keyboard
 
-🏀 Basketball · 🎵 Music · 🀄 [Mahjong stats](https://amae-koromo.sapk.ch/player/14840219/12) · 🎮 Games
+🏀 Basketball · 🎵 Music · 🀄 [Mahjong stats](https://amae-koromo.sapk.ch/player/14840219/12) · 🎮 [Games](https://steamcommunity.com/profiles/76561199518477761/)
