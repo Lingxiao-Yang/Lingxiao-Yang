@@ -34,13 +34,6 @@ An STM32-based guitar tutor combining real-time audio/chord recognition, an LVGL
 
 [Firmware, hardware & project poster](https://github.com/Lingxiao-Yang/eecs373_guitar_tutor)
 
-## 🔬 Current explorations
-
-| Project | Question & current scope |
-| :--- | :--- |
-| [Multi-agent kernel optimization](https://github.com/Lingxiao-Yang/multi-agent-kernel) | Can specialized LLM roles and hardware knowledge improve Triton kernel optimization under matched attempt and call budgets? Includes a search controller, correctness checks, and a measurement harness; the full A100 study remains in development. |
-| [Agent serving concurrency](https://github.com/Lingxiao-Yang/agent-serving-concurrency) | How does stage-specific model/tool concurrency compare with a global request limit? The current testbed uses deterministic scripted inference; GPU integration is a later milestone. |
-
 ## 🧩 LeetCode progress
 
 [![LeetCode statistics and activity heatmap for lingxiao-yang](https://leetcard.jacoblin.cool/lingxiao-yang?theme=light&font=Inter&ext=heatmap)](https://leetcode.com/u/lingxiao-yang/)
