@@ -10,29 +10,13 @@
 
 ## 🛠️ Selected projects
 
-### 🧠 Three-wide out-of-order RISC-V processor
+[![Three-wide out-of-order RISC-V processor](profile/cpu.svg)](https://github.com/Lingxiao-Yang/cpu_project_overview)
+[![Excavator VLA](profile/excavator.svg)](https://github.com/Lingxiao-Yang/Excavator_VLA_project_overview)
+[![Embedded guitar tutor](profile/guitar.svg)](https://github.com/Lingxiao-Yang/eecs373_guitar_tutor)
 
-A team project implementing a P6-style processor with register renaming, speculative execution, a hybrid branch predictor, and non-blocking data caching. The final design passed the benchmark suite's correctness tests, with an **8.3 ns post-synthesis clock period** and **2.129 weighted-average CPI**.
+## 💻 Top languages
 
-**SystemVerilog · Computer architecture · RTL verification**
-
-[Project overview](https://github.com/Lingxiao-Yang/cpu_project_overview) · [Interactive demo](https://lingxiao-yang.github.io/cpu_project_overview/) · [Final report](https://github.com/Lingxiao-Yang/cpu_project_overview/blob/main/EECS470_Final_Report.pdf)
-
-### 🤖 Excavator VLA: autonomous excavation in simulation
-
-A team capstone combining NVIDIA Isaac Sim, automatically generated demonstrations, and SmolVLA fine-tuning for a dig–transfer–dump task. The pipeline produced **572 demonstration episodes** and connects visual observations and language instructions to closed-loop robot control.
-
-**Python · Isaac Sim · LeRobot / SmolVLA · Robot learning**
-
-[Repository & reference implementation](https://github.com/Lingxiao-Yang/Excavator_VLA_project_overview) · [Project page & rollout](https://lingxiao-yang.github.io/Excavator_VLA_project_overview/)
-
-### 🎸 Embedded guitar tutor
-
-An STM32-based guitar tutor combining real-time audio/chord recognition, an LVGL touchscreen interface, a custom PCB, and a laser-cut enclosure to support chord practice and feedback.
-
-**C · STM32 · LVGL · Signal processing · PCB design**
-
-[Firmware, hardware & project poster](https://github.com/Lingxiao-Yang/eecs373_guitar_tutor)
+[![Most-used languages in my public repositories](profile/top-languages.svg)](https://github.com/Lingxiao-Yang?tab=repositories)
 
 ## 🧩 LeetCode progress
 
