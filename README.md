@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hi there 👋
 
 🎓 I'm Lingxiao, an M.S. Computer Science student at **The University of Texas at Austin** and a **Computer Engineering graduate of the University of Michigan**.
 
